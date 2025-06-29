@@ -1,0 +1,28 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environnements Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnements PHP (si applicable)
+vendor/
+.env
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
